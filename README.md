@@ -3,7 +3,7 @@
 
 Demo in class
 
-Example of repository
+Example of repository 
 
 
 ## Acknowledgements
